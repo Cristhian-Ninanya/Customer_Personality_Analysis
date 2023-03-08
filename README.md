@@ -26,7 +26,7 @@ Inside customer_segmentation_and_analysis.ipynb you can find:
 
 **Results Evaluation**
 
-![alt text](https://github.com/Cristhian-Ninanya/Customer_Personality_Analysis/blob/master/images/Cluster%20with%20KMeans_PCA.png?raw=true)
+![alt text](https://github.com/Cristhian-Ninanya/Customer_Personality_Analysis/blob/master/images/Cluster_KMeans_PCA.jpg?raw=true)
 
 **Final Observations**:
 * 1.CLuster ID-2 has more presence for lower 'Income', and cluster ID-3 has more presence for higher 'Income'.
